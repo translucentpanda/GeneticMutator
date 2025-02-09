@@ -41,6 +41,9 @@ If you want to incorporate similar changes into your own mods, the source code f
 
 ##### Changelog
 
+###### 02/09/2025 (Version 4)
+- Removed the distracting mod image. Sorry!
+
 ###### 02/08/2025 (Version 3)
 - Added some missing traits to the Boosted gene mode.
 - Added some extra mod metadata.
