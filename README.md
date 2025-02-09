@@ -19,7 +19,7 @@ In addition to the default Tek Trough configurations, you'll find the following 
 
 ###### Gene Mode
 - *Inherit*: Babies will inherit one random Gene Trait from each parent, if possible. The parents need to be uncryo-ed, but don't necessarily need to be in the immediate area. Combine this with the Genetic Cloning mod to end up with too many copies of Gene Traits.
-- *Wild*: The more balanced option, this mode immitates the Gene Traits of wild dinos. The Traits you find will depend on the type of dino you breed.
+- *Wild*: The more balanced option, this mode imitates the Gene Traits of wild dinos. The traits you find will depend on the dinos that you're breeding.
 - *Boosted*: Babies will get 2 traits for their species, with a chance for a 3rd, and another chance that one of the traits will be upgraded straight to 3! I don't need balance, I need Gene Traits!
 
 ###### Debug Mode
