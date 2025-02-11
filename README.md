@@ -41,6 +41,9 @@ If you want to incorporate similar changes into your own mods, the source code f
 
 ##### Changelog
 
+###### 02/10/2025 (Version 5)
+- Fixed an issue with inheritance beyond the first generation.
+
 ###### 02/09/2025 (Version 4)
 - Removed the distracting mod image. Sorry!
 
