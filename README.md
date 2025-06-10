@@ -26,20 +26,26 @@ In addition to the default Tek Trough configurations, you'll find the following 
 - Enabling debug mode will add some extra text to the HUD for dinos affected by the trough. This can be useful for verifying the mode settings at a glance and will help you see how overlapping troughs might be affecting your dinos. If babies aren't coming out like you expect, see what's actually being applied to the parents with Debug Mode!
 
 ##### GameUserSettings.ini
-The only config options you'll find are for the boosted chances (inspired by Shiny!). Everything else you'll find on the trough itself!
+The only config options you'll find are for the boosted chances (inspired by Shiny!) and the maximum mutations. Everything else you'll find on the trough itself!
 
 - BoostedBonusTraitChance=0.33
 - BoostedTraitUpgradeChance=0.33
+- MaxMutations=100
 
 ##### Disclaimers
 - This mod is primarily intended for solo players and smallish tribes. *You may experience performance drops with massive, server-wide breeding farms!*
 - This mod is meant to incentivize hatching/birthing and active participation. *It may not work with offline breeding mods!*
 - This mod changes mutation rates the same way many other mods do, so whatever means you last used to change the mutation chance will be what ultimately affects the parents that you're breeding, whether that's treats or the trough. If you prefer treats, that's okay! Just feed them *after* they are affected by the trough or remove them from the trough area first just to be safe!
+ - Dinos with increased mutation maximums will still display X/20 in Show Ancestors. This is a visual bug with the UI.
 
 ##### Source Code
 If you want to incorporate similar changes into your own mods, the source code for this mod (and my other mods) can be found here: https://github.com/translucentpanda?tab=repositories
 
 ##### Changelog
+
+###### 06/10/2025 (Version 6)
+- Fixed bugs introduced with the UE 5.5 update.
+- Added configurable maximum mutations cap.
 
 ###### 02/10/2025 (Version 5)
 - Fixed an issue with inheritance beyond the first generation.
